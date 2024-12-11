@@ -7,7 +7,7 @@
 ## Upgrading
 
 * Enforce keyword arguments in 'run' function of 'main' module
-* Change 'resolution' 'int' to 'resample_period' 'timedelta'
+* Change 'resolution' 'int' to 'resampling_period' 'timedelta'
 
 ## New Features
 
